@@ -30,3 +30,4 @@ The humidity
 When a user clicks on a city in the search history they are again presented with current and future conditions for that city.
 
 # Link
+[Deployed app](https://mystfreak.github.io/weather-dash/)
